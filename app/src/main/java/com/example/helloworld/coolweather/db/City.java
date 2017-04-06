@@ -29,7 +29,7 @@ public class City extends DataSupport {
         return cityCode;
     }
 
-    public String getCityeName() {
+    public String getCityName() {
         return cityName;
     }
 
